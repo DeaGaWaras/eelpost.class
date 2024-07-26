@@ -8,8 +8,8 @@ export default {
           id: 1,
           name: 'Website Class',
           imageUrl: '404',
-          status: 'XI-B website, contains about XI-B SMAN 1 Kedunggalar, created by Syah Aradea (Class Member) ig:syh.radea. As well as a place where we try new technology.',
-          tech: 'Vue, Javascript, TailwildCSS',
+          status: 'XI-B website, contains about XI-B SMAN 1 Kedunggalar, created by Syah Aradea (Class Member). As well as a place where we try new technology.',
+          tech: 'Vue, Javascript, Tailwindcss, HTML, CSS',
           github: 'null',
           demo: 'https://eelpostclass.my.id'
         },

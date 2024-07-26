@@ -35,7 +35,7 @@ export default {
   name: 'HomeView',
   data() {
     return {
-      toRotate: ["Elegan People Of Cience Two", "We Are A Community Of Creators.", "Make Every Day Count.", "36 Human"],
+      toRotate: ["Elegan People Of Cience Two", "We Are A Community Of Creators.", "Make Every Day Count.", "36 Student", "1 Class", "1 Teather", "1 Family"],
       period: 2000,
       txt: '',
       loopNum: 0,

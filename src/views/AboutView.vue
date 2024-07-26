@@ -77,30 +77,222 @@ export default {
           status: 'Umum'
         }
       ],
-      tools: [
+      Student: [
         {
           id: 1,
-          name: 'Ruang Kelas',
-          imageUrl: 'https://telegra.ph/file/817f7c4534eaa1b12fae0.png',
-          status: 'One For All'
+          name: 'Absen 1',
+          imageUrl: 'https://telegra.ph/file/0de698bd9a77951fceb19.png',
+          status: 'Aditya Eko P'
         },
         {
           id: 2,
-          name: 'Lab. Komputer',
-          imageUrl: 'https://telegra.ph/file/1560751eb53c74c4079c4.png',
-          status: 'Learn Programming'
+          name: 'Absen 2',
+          imageUrl: 'https://telegra.ph/file/1c7731027771352c4f20f.png',
+          status: 'Alfrinda Melvi A.P'
         },
         {
           id: 3,
-          name: 'Lab. IPA',
-          imageUrl: 'https://telegra.ph/file/75e513348303c02b0b2e4.png',
-          status: 'Experimental Learning'
+          name: 'Absen 3',
+          imageUrl: 'https://telegra.ph/file/0de698bd9a77951fceb19.png',
+          status: 'Anggita Nova D.N'
         },
         {
           id: 4,
-          name: 'Library',
-          imageUrl: 'https://telegra.ph/file/8f85c3176350d6e3e542e.png',
-          status: 'Place to Read Books'
+          name: 'Absen 4',
+          imageUrl: 'https://telegra.ph/file/1c7731027771352c4f20f.png',
+          status: 'Apri Nayla S.T'
+        },
+        {
+          id: 5,
+          name: 'Absen 5',
+          imageUrl: 'https://telegra.ph/file/0de698bd9a77951fceb19.png',
+          status: 'Ariska Kurnia P'
+        },
+        {
+          id: 6,
+          name: 'Absen 6',
+          imageUrl: 'https://telegra.ph/file/1c7731027771352c4f20f.png',
+          status: 'Ayoedya Putri H'
+        },
+        {
+          id: 7,
+          name: 'Absen 7',
+          imageUrl: 'https://telegra.ph/file/1c7731027771352c4f20f.png',
+          status: 'Azizahra Wahyu K'
+        },
+        {
+          id: 8,
+          name: 'Absen 8',
+          imageUrl: 'https://telegra.ph/file/0de698bd9a77951fceb19.png',
+          status: 'Bayu Guyuh U'
+        },
+        {
+          id: 9,
+          name: 'Absen 9',
+          imageUrl: 'https://telegra.ph/file/1c7731027771352c4f20f.png',
+          status: 'Candy Vebri A.K'
+        },
+        {
+          id: 10,
+          name: 'Absen 10',
+          imageUrl: 'https://telegra.ph/file/1c7731027771352c4f20f.png',
+          status: 'Chetty A'
+        },
+        {
+          id: 11,
+          name: 'Absen 11',
+          imageUrl: 'https://telegra.ph/file/090f2e1a24a59046064f8.jpg',
+          status: 'Dava Tristian A'
+        },
+        {
+          id: 12,
+          name: 'Absen 12',
+          imageUrl: 'https://telegra.ph/file/0de698bd9a77951fceb19.png',
+          status: 'Denny Satria A'
+        },
+        {
+          id: 13,
+          name: 'Absen 13',
+          imageUrl: 'https://telegra.ph/file/0de698bd9a77951fceb19.png',
+          status: 'Devika Aditiyansa'
+        },
+        {
+          id: 14,
+          name: 'Absen 14',
+          imageUrl: 'https://telegra.ph/file/1c7731027771352c4f20f.png',
+          status: 'Exti Nola V'
+        },
+        {
+          id: 15,
+          name: 'Absen 15',
+          imageUrl: 'https://telegra.ph/file/0de698bd9a77951fceb19.png',
+          status: 'Farez Rahmansya'
+        },
+        {
+          id: 16,
+          name: 'Absen 16',
+          imageUrl: 'https://telegra.ph/file/0de698bd9a77951fceb19.png',
+          status: 'Fauzan A. Putra'
+        },
+        {
+          id: 17,
+          name: 'Absen 17',
+          imageUrl: 'https://telegra.ph/file/1c7731027771352c4f20f.png',
+          status: 'Ghefira Afrilia V'
+        },
+        {
+          id: 18,
+          name: 'Absen 18',
+          imageUrl: 'https://telegra.ph/file/1c7731027771352c4f20f.png',
+          status: 'Ghian Ellischa I.S'
+        },
+        {
+          id: 19,
+          name: 'Absen 19',
+          imageUrl: 'https://telegra.ph/file/0de698bd9a77951fceb19.png',
+          status: 'Leonardo Hardika'
+        },
+        {
+          id: 20,
+          name: 'Absen 20',
+          imageUrl: 'https://telegra.ph/file/0de698bd9a77951fceb19.png',
+          status: 'Lukman Hakim'
+        },
+        {
+          id: 21,
+          name: 'Absen 21',
+          imageUrl: 'https://telegra.ph/file/1c7731027771352c4f20f.png',
+          status: 'Mafika C. Cahyani'
+        },
+        {
+          id: 22,
+          name: 'Absen 22',
+          imageUrl: 'https://telegra.ph/file/0de698bd9a77951fceb19.png',
+          status: 'Maulana Ainul Y'
+        },
+        {
+          id: 23,
+          name: 'Absen 23',
+          imageUrl: 'https://telegra.ph/file/1c7731027771352c4f20f.png',
+          status: 'Michelle Cherish B'
+        },
+        {
+          id: 24,
+          name: 'Absen 24',
+          imageUrl: 'https://telegra.ph/file/1c7731027771352c4f20f.png',
+          status: 'Nabilla Okte F'
+        },
+        {
+          id: 25,
+          name: 'Absen 25',
+          imageUrl: 'https://telegra.ph/file/1c7731027771352c4f20f.png',
+          status: 'Nadyna A. Tyas'
+        },
+        {
+          id: 26,
+          name: 'Absen 26',
+          imageUrl: 'https://telegra.ph/file/1c7731027771352c4f20f.png',
+          status: 'Novita Sri Utami'
+        },
+        {
+          id: 27,
+          name: 'Absen 27',
+          imageUrl: 'https://telegra.ph/file/0de698bd9a77951fceb19.png',
+          status: 'Panji Angga S'
+        },
+        {
+          id: 28,
+          name: 'Absen 28',
+          imageUrl: 'https://telegra.ph/file/0de698bd9a77951fceb19.png',
+          status: 'Rayendra Hafizh I.H'
+        },
+        {
+          id: 29,
+          name: 'Absen 29',
+          imageUrl: 'https://telegra.ph/file/0de698bd9a77951fceb19.png',
+          status: 'Ridho Kurnia R'
+        },
+        {
+          id: 30,
+          name: 'Absen 30',
+          imageUrl: 'https://telegra.ph/file/0de698bd9a77951fceb19.png',
+          status: 'Rizki Dwi Wahyu P'
+        },
+        {
+          id: 31,
+          name: 'Absen 31',
+          imageUrl: 'https://telegra.ph/file/0de698bd9a77951fceb19.png',
+          status: 'Royan Aji Kusuma'
+        },
+        {
+          id: 32,
+          name: 'Absen 32',
+          imageUrl: 'https://telegra.ph/file/0de698bd9a77951fceb19.png',
+          status: 'Rozzaq Alfian Fauzi'
+        },
+        {
+          id: 33,
+          name: 'Absen 33',
+          imageUrl: 'https://telegra.ph/file/0de698bd9a77951fceb19.png',
+          status: 'Satria Ananda B'
+        },
+        {
+          id: 34,
+          name: 'Absen 34',
+          imageUrl: 'https://telegra.ph/file/1c7731027771352c4f20f.png',
+          status: 'Sinta Dwi Safitri'
+        },
+        {
+          id: 35,
+          name: 'Absen 35',
+          imageUrl: 'https://telegra.ph/file/7d56fc839c421096dcf21.jpg',
+          status: 'Syah Aradea A'
+        },
+        {
+          id: 36,
+          name: 'Absen 36',
+          imageUrl: 'https://telegra.ph/file/1c7731027771352c4f20f.png',
+          status: 'Syifa Dhenis Nafisa'
         },
       ]
     };
@@ -152,7 +344,7 @@ Inilah kami, siap untuk menghadapi tantangan, meraih mimpi, dan mengukir prestas
         <div class="text-2xl font-bold text-white mb-5 fadein-bot title-section flex items-center">
           <div class="h-[1px] w-10 bg-amber-200 md:w-20 aos-init aos-animate" data-aos="zoom-in-left"
             data-aos-duration="600"></div>
-          &nbsp; Schedule XI-B
+          &nbsp; Structure XI-B
         </div>
       </header>
       <section>
@@ -164,7 +356,7 @@ Inilah kami, siap untuk menghadapi tantangan, meraih mimpi, dan mengukir prestas
             </li>
             <li class="mr-2">
               <button class="inline-block px-4 py-3 rounded-lg hover:text-white"
-                :class="{ 'text-amber-200 bg-amber-200 bg-opacity-10': activeTab === 2 }" @click="activeTab = 2">Place</button>
+                :class="{ 'text-amber-200 bg-amber-200 bg-opacity-10': activeTab === 2 }" @click="activeTab = 2">Students</button>
             </li>
           </ul>
         </div>
@@ -190,26 +382,24 @@ Inilah kami, siap untuk menghadapi tantangan, meraih mimpi, dan mengukir prestas
           </div>
         </div>
         <div v-show="activeTab === 2">
-          <div class="grid grid-cols-2 gap-4 pb-32 md:grid-cols-3 md:gap-8 xl:grid-cols-4 xl:gap-10 2xl:gap-12">
-            <div v-for="item in tools" :key="item.id">
-              <div
-                class="item-tech flex cursor-pointer items-center gap-2 rounded border border-amber-200 px-2 py-2 hover:bg-amber-200 hover:bg-opacity-10 md:gap-3 lg:px-3">
-                <div class="flex h-12 w-12 items-center justify-center p-0 lg:h-16 lg:w-16 lg:p-2 zoom-in">
-                  <img alt="HTML" loading="lazy" width="32" height="32" decoding="async" data-nimg="1"
-                    class="img-tech drop-shadow-xl transition-all duration-300 h-[65%] w-[65%] lg:h-[85%] lg:w-[85%]  "
-                    :src="item.imageUrl" style="color: transparent;">
-                </div>
-                <div class="flex items-center text-sm md:text-base lg:text-lg">
-                  <div class="tech font-medium text-secondary transition-all duration-300 translate-y-0 ">{{ item.name }}
-                  </div>
-                  <div
-                    class="status-tech opacity-0 absolute mt-5 text-[10px] text-amber-200 transition-all duration-300 md:text-xs lg:text-sm">
-                    {{ item.status }}</div>
-                </div>
-              </div>
-            </div>
+  <div class="grid grid-cols-2 gap-4 pb-32 md:grid-cols-3 md:gap-8 xl:grid-cols-4 xl:gap-10 2xl:gap-12">
+    <div v-for="item in Student" :key="item.id">
+      <div class="item-tech flex flex-col items-center gap-2 rounded border border-amber-200 px-3 py-2 hover:bg-amber-200 hover:bg-opacity-10">
+        <div class="flex items-center justify-center p-0 h-16 w-16 lg:h-20 lg:w-20">
+          <img alt="HTML" loading="lazy" width="64" height="64" decoding="async" class="img-tech drop-shadow-xl transition-all duration-300 h-[80%] w-[80%]"
+            :src="item.imageUrl" style="color: transparent;">
+        </div>
+        <div class="flex flex-col items-center text-sm md:text-base lg:text-lg mt-2">
+          <div class="tech font-medium text-secondary transition-all duration-300">{{ item.name }}</div>
+          <div class="status-tech text-xs text-amber-200 mt-1 transition-all duration-300">
+            {{ item.status }}
           </div>
         </div>
+      </div>
+    </div>
+  </div>
+</div>
+
       </section>
     </article>
   </div>
