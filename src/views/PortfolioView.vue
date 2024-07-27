@@ -6,10 +6,10 @@ export default {
       items: [
         {
           id: 1,
-          name: 'Website Class',
-          imageUrl: '404',
+          name: 'Website  XI B Class',
+          imageUrl: 'ptf1',
           status: 'XI-B website, contains about XI-B SMAN 1 Kedunggalar, created by Syah Aradea (Class Member). As well as a place where we try new technology.',
-          tech: 'Vue, Javascript, Tailwindcss, HTML, CSS',
+          tech: 'Vue, Javascript, Tailwind',
           github: 'null',
           demo: 'https://eelpostclass.my.id'
         },
@@ -22,33 +22,6 @@ export default {
           github: 'null',
           demo: 'null'
         },
-        {
-          id: 3,
-          name: 'Kegiatan 3',
-          imageUrl: '404',
-          status: 'Terserah isi apa',
-          tech: 'Bantu isi pak',
-          github: 'null',
-          demo: 'null'
-        },
-        {
-          id: 4,
-          name: 'Kegiatan 4',
-          imageUrl: '404',
-          status: 'Terserah isi apa',
-          tech: 'Bantu isi pak',
-          github: 'null',
-          demo: 'null'
-        },
-        {
-          id: 5,
-          name: 'Kegiatan 5',
-          imageUrl: '404',
-          status: 'Terserah isi apa',
-          tech: 'Bantu isi pak',
-          github: 'null',
-          demo: 'null'
-        }
       ]
     };
   }
@@ -74,7 +47,7 @@ export default {
                 class="item-card flex flex-col items-center gap-2 rounded bg-[#1e1e1f] hover:bg-[#282828] border border-[#383838] rounded-xl text-amber-50 md:gap-3 px-5 py-5 lg:px-5 ">
                 <div class="flex h-12 w-12 items-center justify-center p-0 h-full w-full lg:p-0 zoom-in">
                   <img alt="HTML" loading="lazy" decoding="async" data-nimg="1" class="drop-shadow-xl rounded rounded-xl"
-                    :src="'/img/' + item.imageUrl + '.jpg'">
+                    :src="'/img/' + item.imageUrl + '.png'">
                 </div>
                 <div class="w-full flex flex-col gap-2 items-center text-sm md:text-base lg:text-lg">
                   <div class="title-text font-medium text-secondary">{{ item.name }}
