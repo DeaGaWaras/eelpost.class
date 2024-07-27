@@ -21,17 +21,17 @@ const routes = [
     meta: { title: 'Portfolio' }
   },
   {
-    path: '/memories',
-    name: 'memories',
-    component: () => import('../views/MemoriesView.vue'),
-    meta: { title: 'Memories' }
+    path: '/schedule',
+    name: 'schedule',
+    component: () => import('../views/ScheduleView.vue'),
+    meta: { title: 'Schedule' }
   },
   {
     path: '/read/:slug/:id',
-    name: 'articleDetail',
-    component: () => import('../views/ArticleView.vue'),
-    meta: { title: 'Memories' }
-  }
+    name: 'sceheduleDetail',
+    component: () => import('../views/JadwalView.vue'),
+    meta: { title: 'Scehedule' }
+  },
 ]
 
 const router = createRouter({

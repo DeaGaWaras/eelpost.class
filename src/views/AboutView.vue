@@ -294,7 +294,7 @@ export default {
           imageUrl: 'https://telegra.ph/file/1c7731027771352c4f20f.png',
           status: 'Syifa Dhenis Nafisa'
         },
-      ]
+      ],
     };
   }
 }
@@ -382,24 +382,24 @@ Inilah kami, siap untuk menghadapi tantangan, meraih mimpi, dan mengukir prestas
           </div>
         </div>
         <div v-show="activeTab === 2">
-  <div class="grid grid-cols-2 gap-4 pb-32 md:grid-cols-3 md:gap-8 xl:grid-cols-4 xl:gap-10 2xl:gap-12">
-    <div v-for="item in Student" :key="item.id">
-      <div class="item-tech flex flex-col items-center gap-2 rounded border border-amber-200 px-3 py-2 hover:bg-amber-200 hover:bg-opacity-10">
-        <div class="flex items-center justify-center p-0 h-16 w-16 lg:h-20 lg:w-20">
-          <img alt="HTML" loading="lazy" width="64" height="64" decoding="async" class="img-tech drop-shadow-xl transition-all duration-300 h-[80%] w-[80%]"
+         <div class="grid grid-cols-2 gap-4 pb-32 md:grid-cols-3 md:gap-8 xl:grid-cols-4 xl:gap-10 2xl:gap-12">
+          <div v-for="item in Student" :key="item.id">
+           <div class="item-tech flex flex-col items-center gap-2 rounded border border-amber-200 px-3 py-2 hover:bg-amber-200 hover:bg-opacity-10">
+            <div class="flex items-center justify-center p-0 h-16 w-16 lg:h-20 lg:w-20">
+             <img alt="HTML" loading="lazy" width="64" height="64" decoding="async" class="img-tech drop-shadow-xl transition-all duration-300 h-[80%] w-[80%]"
             :src="item.imageUrl" style="color: transparent;">
-        </div>
-        <div class="flex flex-col items-center text-sm md:text-base lg:text-lg mt-2">
-          <div class="tech font-medium text-secondary transition-all duration-300">{{ item.name }}</div>
-          <div class="status-tech text-xs text-amber-200 mt-1 transition-all duration-300">
+              </div>
+             <div class="flex flex-col items-center text-sm md:text-base lg:text-lg mt-2">
+            <div class="tech font-medium text-secondary transition-all duration-300">{{ item.name }}</div>
+            <div class="status-tech text-xs text-amber-200 mt-1 transition-all duration-300">
             {{ item.status }}
           </div>
+         </div>
         </div>
+       </div>
       </div>
     </div>
-  </div>
-</div>
-
+   
       </section>
     </article>
   </div>

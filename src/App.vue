@@ -27,8 +27,8 @@
                 class="fadein-bot fadein-2 text-gray-700 hover:bg-gray-50 border-b border-gray-100 md:hover:bg-transparent md:border-0 block pl-3 pr-4 py-2 md:hover:text-gray-500 md:p-0">Portfolio</router-link>
             </li>
             <li>
-              <router-link to="/memories"
-                class="fadein-bot fadein-3 text-gray-700 hover:bg-gray-50 border-b border-gray-100 md:hover:bg-transparent md:border-0 block pl-3 pr-4 py-2 md:hover:text-gray-500 md:p-0 blog">Memories</router-link>
+              <router-link to="/schedule"
+                class="fadein-bot fadein-3 text-gray-700 hover:bg-gray-50 border-b border-gray-100 md:hover:bg-transparent md:border-0 block pl-3 pr-4 py-2 md:hover:text-gray-500 md:p-0 blog">Scehedule</router-link>
             </li>
           </ul>
         </div>
@@ -44,7 +44,7 @@
     <router-link to="/" class="text-gray-300 hover:text-white">Home</router-link>
     <router-link to="/about" class="text-gray-300 hover:text-white">About</router-link>
     <router-link to="/portfolio" class="text-gray-300 hover:text-white">Portfolio</router-link>
-    <router-link to="/memories" class="text-gray-300 hover:text-white">Memories</router-link>
+    <router-link to="/schedule" class="text-gray-300 hover:text-white">Scehedule</router-link>
   </nav>
 </footer>
 </template>
