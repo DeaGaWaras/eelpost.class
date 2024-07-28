@@ -60,13 +60,13 @@ export default {
         },
         {
           id: 10,
-          name: 'Jasmani',
+          name: 'Olahraga',
           imageUrl: 'https://telegra.ph/file/23abb61f5528d24b82b7b.png',
           status: 'Umum'
         },
         {
           id: 11,
-          name: 'Kenegaraan',
+          name: 'Pancasila',
           imageUrl: 'https://telegra.ph/file/23abb61f5528d24b82b7b.png',
           status: 'Umum'
         },
