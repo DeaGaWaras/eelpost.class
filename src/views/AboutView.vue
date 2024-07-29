@@ -141,7 +141,7 @@ export default {
         {
           id: 11,
           name: 'Absen 11',
-          imageUrl: 'https://telegra.ph/file/090f2e1a24a59046064f8.jpg',
+          imageUrl: 'https://telegra.ph/file/0de698bd9a77951fceb19.png',
           status: 'Dava Tristian A'
         },
         {
@@ -285,7 +285,7 @@ export default {
         {
           id: 35,
           name: 'Absen 35',
-          imageUrl: 'https://telegra.ph/file/7d56fc839c421096dcf21.jpg',
+          imageUrl: 'https://telegra.ph/file/0de698bd9a77951fceb19.png',
           status: 'Syah Aradea A'
         },
         {
