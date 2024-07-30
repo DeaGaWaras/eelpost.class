@@ -7,7 +7,7 @@ export default {
         {
           id: 1,
           name: 'Website  XI B Class',
-          imageUrl: 'ptf1',
+          imageUrl: 'ptf',
           status: 'XI-B website, contains about XI-B SMAN 1 Kedunggalar, created by Syah Aradea (Class Member). As well as a place where we try new technology.',
           tech: 'Vue, Javascript, Tailwind',
           github: 'null',
