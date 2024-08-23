@@ -322,7 +322,7 @@ export default {
           <p class="mb-3 md:mb-7 fadein-left fadeins-1">
             &nbsp; &nbsp; &nbsp; Halo semuanya!
 Kami dari kelas XI-B asal SMAN 1 Kedunggalar, sebuah sekolah yang terletak di kota Ngawi, Jawa Timur, Indonesia.
-Kami bangga dikenal sebagai "The Eelpost Class" – kelas yang penuh semangat dan kreativitas.
+Kami bangga dikenal sebagai "The Belevens Class" – kelas yang penuh semangat dan kreativitas.
 
 Di kelas kami, terdapat 36 individu luar biasa, terdiri dari 16 perempuan pintar dan 20 laki-laki tangguh. Bersama-sama, kami membentuk satu kesatuan yang solid dan harmonis. Kami beruntung memiliki Bu Wiwin S.Pd sebagai wali kelas kami,
 seorang pendidik yang penuh inspirasi dan dedikasi.
