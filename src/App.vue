@@ -10,7 +10,7 @@
         </button>
         <div class="flex md:order-2 fadein-bot">
           <a href="https://www.instagram.com/belevens.24"><img class="w-9 rounded-full" src="https://telegra.ph/file/bbc21149a98d0f6268f84.png" alt="Instagram"></a>
-          <a href="https://www.tiktok.com/@belevens.24"><img class="w-9 rounded-full" src="https://img.icons8.com/?size=100&id=118638&format=png&color=000000" alt="Tiktok"></a>
+          <a href="https://www.tiktok.com/@belevens.24"><img class="w-9 rounded-full" src="https://img.icons8.com/ios-filled/500/tiktok--v1.png" alt="Tiktok"></a>
         </div>
         <div class="hidden md:flex justify-between items-center w-full md:w-auto md:order-1" id="mobile-menu-3">
           <ul class="flex-col md:flex-row flex md:space-x-8 mt-4 md:mt-0 md:text-sm md:font-medium">
